@@ -14,3 +14,11 @@ body {
   color: #fff;
   background-color: #000;
 }
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+.center {
+  width: 800px;
+}
